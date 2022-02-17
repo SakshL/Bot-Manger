@@ -1,1 +1,1 @@
-# Bot-Manger
+# Bot-Manger / Discord Bot Maker
