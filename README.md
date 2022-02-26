@@ -1,4 +1,4 @@
-## I'll Open Source The Project if i get 200 stars on this Github Repo
+## This will be closed-sourced, you will need to pay 45$ in order to get the src code. Thank you
 
 # Title
 How to create a Discord bot using the Discord Bot Maker By NotSaksh? Wanna learn that? Follow this tutorial!
